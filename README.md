@@ -27,4 +27,4 @@ worth sharing.
 - Detection patterns for prompt-injection attempts at the
   proxy/gateway layer
 
-— *Based in Norway · EN/NO*
+— *Based in Norway · NO/EN*
